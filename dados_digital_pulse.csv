@@ -1,0 +1,97 @@
+﻿date,region,state,city,gdp_change_pct,influencer_revenue,year,month,month_name,gdp_status,digital_resilience
+2023-01-01,Southeast,SP,São Paulo,-0.14,433592.86,2023,1,Jan,🔴 Decline,Resilient
+2023-02-01,Southeast,SP,São Paulo,2.11,387825.6,2023,2,Feb,🟢 Growth,Standard
+2023-03-01,Southeast,SP,São Paulo,-1.52,330279.29,2023,3,Mar,🔴 Decline,Resilient
+2023-04-01,Southeast,SP,São Paulo,-2.13,422602.9,2023,4,Apr,🔴 Decline,Resilient
+2023-05-01,Southeast,SP,São Paulo,1.29,402049.44,2023,5,May,🟢 Growth,Standard
+2023-06-01,Southeast,SP,São Paulo,-2.37,436088.28,2023,6,Jun,🔴 Decline,Resilient
+2023-07-01,Southeast,SP,São Paulo,2.74,337604.08,2023,7,Jul,🟢 Growth,Standard
+2023-08-01,Southeast,SP,São Paulo,-1.35,333842.59,2023,8,Aug,🔴 Decline,Resilient
+2023-09-01,Southeast,SP,São Paulo,-0.58,378218.34,2023,9,Sep,🔴 Decline,Resilient
+2023-10-01,Southeast,SP,São Paulo,0.22,347859.79,2023,10,Oct,🟢 Growth,Standard
+2023-11-01,Southeast,SP,São Paulo,1.35,328134.2,2023,11,Nov,🟢 Growth,Standard
+2023-12-01,Southeast,SP,São Paulo,-0.66,357627.04,2023,12,Dec,🔴 Decline,Resilient
+2024-01-01,Southeast,SP,São Paulo,0.37,412072.87,2024,1,Jan,🟢 Growth,Standard
+2024-02-01,Southeast,SP,São Paulo,-1.24,376850.48,2024,2,Feb,🔴 Decline,Resilient
+2024-03-01,Southeast,SP,São Paulo,1.23,316038.55,2024,3,Mar,🟢 Growth,Standard
+2024-04-01,Southeast,SP,São Paulo,1.33,332168.14,2024,4,Apr,🟢 Growth,Standard
+2024-05-01,Southeast,SP,São Paulo,-2.09,433355.12,2024,5,May,🔴 Decline,Resilient
+2024-06-01,Southeast,SP,São Paulo,3.58,415091.66,2024,6,Jun,🟢 Growth,Standard
+2024-07-01,Southeast,SP,São Paulo,-0.58,322697.37,2024,7,Jul,🔴 Decline,Resilient
+2024-08-01,Southeast,SP,São Paulo,1.81,367219.82,2024,8,Aug,🟢 Growth,Standard
+2024-09-01,Southeast,SP,São Paulo,-1.73,374373.0,2024,9,Sep,🔴 Decline,Resilient
+2024-10-01,Southeast,SP,São Paulo,-2.28,428211.65,2024,10,Oct,🔴 Decline,Resilient
+2024-11-01,Southeast,SP,São Paulo,-0.87,396127.9,2024,11,Nov,🔴 Decline,Resilient
+2024-12-01,Southeast,SP,São Paulo,-0.54,377608.84,2024,12,Dec,🔴 Decline,Resilient
+2023-01-01,Southeast,SP,Campinas,0.94,334031.08,2023,1,Jan,🟢 Growth,Standard
+2023-02-01,Southeast,SP,Campinas,3.61,410767.27,2023,2,Feb,🟢 Growth,Standard
+2023-03-01,Southeast,SP,Campinas,3.42,426327.56,2023,3,Mar,🟢 Growth,Standard
+2023-04-01,Southeast,SP,Campinas,1.27,429843.65,2023,4,Apr,🟢 Growth,Standard
+2023-05-01,Southeast,SP,Campinas,-1.94,335477.77,2023,5,May,🔴 Decline,Resilient
+2023-06-01,Southeast,SP,Campinas,-2.22,352292.94,2023,6,Jun,🔴 Decline,Resilient
+2023-07-01,Southeast,SP,Campinas,-0.05,345275.37,2023,7,Jul,🔴 Decline,Resilient
+2023-08-01,Southeast,SP,Campinas,2.72,356377.93,2023,8,Aug,🟢 Growth,Standard
+2023-09-01,Southeast,SP,Campinas,-0.73,380550.49,2023,9,Sep,🔴 Decline,Resilient
+2023-10-01,Southeast,SP,Campinas,-1.61,414285.61,2023,10,Oct,🔴 Decline,Resilient
+2023-11-01,Southeast,SP,Campinas,-2.03,438295.3,2023,11,Nov,🔴 Decline,Resilient
+2023-12-01,Southeast,SP,Campinas,2.37,335833.04,2023,12,Dec,🟢 Growth,Standard
+2024-01-01,Southeast,SP,Campinas,-2.47,416009.99,2024,1,Jan,🔴 Decline,Resilient
+2024-02-01,Southeast,SP,Campinas,1.95,404770.93,2024,2,Feb,🟢 Growth,Standard
+2024-03-01,Southeast,SP,Campinas,2.36,319625.8,2024,3,Mar,🟢 Growth,Standard
+2024-04-01,Southeast,SP,Campinas,-0.24,325062.98,2024,4,Apr,🔴 Decline,Resilient
+2024-05-01,Southeast,SP,Campinas,2.94,391028.76,2024,5,May,🟢 Growth,Standard
+2024-06-01,Southeast,SP,Campinas,-0.42,318262.59,2024,6,Jun,🔴 Decline,Resilient
+2024-07-01,Southeast,SP,Campinas,-0.54,352273.83,2024,7,Jul,🔴 Decline,Resilient
+2024-08-01,Southeast,SP,Campinas,2.1,392882.47,2024,8,Aug,🟢 Growth,Standard
+2024-09-01,Southeast,SP,Campinas,3.09,371387.94,2024,9,Sep,🟢 Growth,Standard
+2024-10-01,Southeast,SP,Campinas,-1.75,402721.82,2024,10,Oct,🔴 Decline,Resilient
+2024-11-01,Southeast,SP,Campinas,2.29,382966.04,2024,11,Nov,🟢 Growth,Standard
+2024-12-01,Southeast,SP,Campinas,2.36,374193.43,2024,12,Dec,🟢 Growth,Standard
+2023-01-01,Northeast,BA,Salvador,0.79,195580.33,2023,1,Jan,🟢 Growth,Standard
+2023-02-01,Northeast,BA,Salvador,-2.34,154025.89,2023,2,Feb,🔴 Decline,Standard
+2023-03-01,Northeast,BA,Salvador,-2.3,222733.35,2023,3,Mar,🔴 Decline,Standard
+2023-04-01,Northeast,BA,Salvador,-0.52,206114.19,2023,4,Apr,🔴 Decline,Standard
+2023-05-01,Northeast,BA,Salvador,3.22,172407.99,2023,5,May,🟢 Growth,Standard
+2023-06-01,Northeast,BA,Salvador,0.09,238221.65,2023,6,Jun,🟢 Growth,Standard
+2023-07-01,Northeast,BA,Salvador,-1.06,150007.39,2023,7,Jul,🔴 Decline,Standard
+2023-08-01,Northeast,BA,Salvador,-0.67,160958.77,2023,8,Aug,🔴 Decline,Standard
+2023-09-01,Northeast,BA,Salvador,3.36,245055.65,2023,9,Sep,🟢 Growth,Standard
+2023-10-01,Northeast,BA,Salvador,1.49,253289.88,2023,10,Oct,🟢 Growth,Standard
+2023-11-01,Northeast,BA,Salvador,2.56,164254.11,2023,11,Nov,🟢 Growth,Standard
+2023-12-01,Northeast,BA,Salvador,3.12,210114.49,2023,12,Dec,🟢 Growth,Standard
+2024-01-01,Northeast,BA,Salvador,2.59,256491.87,2024,1,Jan,🟢 Growth,Standard
+2024-02-01,Northeast,BA,Salvador,-0.5,154306.75,2024,2,Feb,🔴 Decline,Standard
+2024-03-01,Northeast,BA,Salvador,-1.06,195524.01,2024,3,Mar,🔴 Decline,Standard
+2024-04-01,Northeast,BA,Salvador,2.65,251894.98,2024,4,Apr,🟢 Growth,Standard
+2024-05-01,Northeast,BA,Salvador,-2.46,206397.15,2024,5,May,🔴 Decline,Standard
+2024-06-01,Northeast,BA,Salvador,0.13,168874.02,2024,6,Jun,🟢 Growth,Standard
+2024-07-01,Northeast,BA,Salvador,-1.74,183889.97,2024,7,Jul,🔴 Decline,Standard
+2024-08-01,Northeast,BA,Salvador,3.44,182016.38,2024,8,Aug,🟢 Growth,Standard
+2024-09-01,Northeast,BA,Salvador,0.77,231392.46,2024,9,Sep,🟢 Growth,Standard
+2024-10-01,Northeast,BA,Salvador,-0.21,266331.67,2024,10,Oct,🔴 Decline,Standard
+2024-11-01,Northeast,BA,Salvador,3.56,172731.7,2024,11,Nov,🟢 Growth,Standard
+2024-12-01,Northeast,BA,Salvador,0.63,179114.18,2024,12,Dec,🟢 Growth,Standard
+2023-01-01,Northeast,PE,Recife,-0.71,144795.3,2023,1,Jan,🔴 Decline,Standard
+2023-02-01,Northeast,PE,Recife,1.34,205348.27,2023,2,Feb,🟢 Growth,Standard
+2023-03-01,Northeast,PE,Recife,-2.18,176224.04,2023,3,Mar,🔴 Decline,Standard
+2023-04-01,Northeast,PE,Recife,3.22,171143.05,2023,4,Apr,🟢 Growth,Standard
+2023-05-01,Northeast,PE,Recife,-1.59,203628.86,2023,5,May,🔴 Decline,Standard
+2023-06-01,Northeast,PE,Recife,3.71,171467.19,2023,6,Jun,🟢 Growth,Standard
+2023-07-01,Northeast,PE,Recife,1.73,239010.55,2023,7,Jul,🟢 Growth,Standard
+2023-08-01,Northeast,PE,Recife,-1.0,234668.13,2023,8,Aug,🔴 Decline,Standard
+2023-09-01,Northeast,PE,Recife,-0.18,222199.76,2023,9,Sep,🔴 Decline,Standard
+2023-10-01,Northeast,PE,Recife,1.49,209650.71,2023,10,Oct,🟢 Growth,Standard
+2023-11-01,Northeast,PE,Recife,-1.93,248589.32,2023,11,Nov,🔴 Decline,Standard
+2023-12-01,Northeast,PE,Recife,-0.48,164247.41,2023,12,Dec,🔴 Decline,Standard
+2024-01-01,Northeast,PE,Recife,-2.24,216816.08,2024,1,Jan,🔴 Decline,Standard
+2024-02-01,Northeast,PE,Recife,1.77,142156.42,2024,2,Feb,🟢 Growth,Standard
+2024-03-01,Northeast,PE,Recife,0.73,169444.45,2024,3,Mar,🟢 Growth,Standard
+2024-04-01,Northeast,PE,Recife,1.56,162667.64,2024,4,Apr,🟢 Growth,Standard
+2024-05-01,Northeast,PE,Recife,1.85,190275.6,2024,5,May,🟢 Growth,Standard
+2024-06-01,Northeast,PE,Recife,3.4,157877.72,2024,6,Jun,🟢 Growth,Standard
+2024-07-01,Northeast,PE,Recife,-0.35,154751.56,2024,7,Jul,🔴 Decline,Standard
+2024-08-01,Northeast,PE,Recife,3.33,254054.12,2024,8,Aug,🟢 Growth,Standard
+2024-09-01,Northeast,PE,Recife,-0.87,225797.93,2024,9,Sep,🔴 Decline,Standard
+2024-10-01,Northeast,PE,Recife,2.65,212176.11,2024,10,Oct,🟢 Growth,Standard
+2024-11-01,Northeast,PE,Recife,0.84,171440.8,2024,11,Nov,🟢 Growth,Standard
+2024-12-01,Northeast,PE,Recife,-1.91,256638.05,2024,12,Dec,🔴 Decline,Standard
